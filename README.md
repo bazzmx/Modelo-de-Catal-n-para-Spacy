@@ -9,6 +9,7 @@ Este es un modelo de prueba de un proyecto más grande/This is a test model from
 Para instalar/To install:
 
 pip install ./ubicación/ca_core_news_sm-0.0.0.tar.gz
+
 pip install ./location/ca_core_news_sm-0.0.0.tar.g
 
 Para importar con spacy/To import with spacy:
